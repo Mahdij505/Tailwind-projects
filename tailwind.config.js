@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./ninjaFood/public/index.html"],
+  content: ["./**/**/*.{html,js}"],
   theme: {
     extend: {
       colors: {
