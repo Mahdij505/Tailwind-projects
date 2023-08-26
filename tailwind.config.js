@@ -9,6 +9,7 @@ module.exports = {
           100: "#E2E2D5",
           200: "#888883",
         },
+        landingCardBackground: "#ebe2e2",
       },
       fontFamily: {
         body: ["Nunito"],
